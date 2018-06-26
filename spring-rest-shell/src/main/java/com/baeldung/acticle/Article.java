@@ -11,6 +11,7 @@ public final class Article {
     @GeneratedValue
     private Long id;
     private String title;
+	//private ss;
     private String content;
 
     public Long getId() {
